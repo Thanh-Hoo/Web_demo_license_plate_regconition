@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+app/LP_reg_src/models
+app/LP_reg_src/result_text_detect
+app/LP_reg_src/result
+app/LP_reg_src/libs/super_resolution/weights
+app/LP_reg_src/libs/CRAFT/models
+logfile
+app/LP_reg_src/data

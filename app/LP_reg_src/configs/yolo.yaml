@@ -1,0 +1,4 @@
+YOLOV4:
+  YOLO_MODEL_PATH: './app/LP_reg_src/models/yolov4_LP_darknet53.weights'
+  YOLO_CFG_PATH: './app/LP_reg_src/configs/yolov4_LP_darknet53.cfg'
+  CLASS_PATH: './app/LP_reg_src/configs/obj.names'

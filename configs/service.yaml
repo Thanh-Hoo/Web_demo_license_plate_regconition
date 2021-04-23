@@ -1,0 +1,4 @@
+SERVICE:
+    SERVICE_IP: "0.0.0.0"
+    PORT: 8080
+    LOG_PATH: "logfile"
